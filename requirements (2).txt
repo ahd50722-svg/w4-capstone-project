@@ -1,0 +1,6 @@
+transformers>=4.56,<6
+torch
+accelerate
+gradio>=5
+pillow==11.3.0
+requests
